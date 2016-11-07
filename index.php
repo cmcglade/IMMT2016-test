@@ -30,34 +30,7 @@
 		?>
 	</p>
 
-	<p class="first">
-		<?php echo "Hello IMMT Class!"; ?>
-	</p>
-
-	<p id="second">
-	    <?php echo "Hello" . " " . "IMMT Class!"; ?> 
-	</p>
-
-	<p class="variable">
-		<?php 
-			$var1 = "World!";
-			$var2 = "Hello";
-			$var3 = $var2 . " " . $var1;
-			echo $var3;
-		?>
-	</p>
-
-	<p class="variable">
-		<?php 
-			$var1 = 23;
-			$var2 = 233300088;
-			$var3 = $var2 + $var1;
-			echo $var3;
-		?>
-	</p>
-	<p>
-		Hello World!
-	</p>
+	
 	
 
 
