@@ -1,0 +1,71 @@
+1. $color = array('white', 'green', 'red', 'blue', 'black');
+Write a script which will display the following string
+
+"The memory of that scene for me is like a frame of film forever frozen at that moment: the red carpet, the green lawn, the white house, the leaden sky. The new president and his first lady. - Richard M. Nixon"
+
+and the words 'red', 'green' and 'white' will come from $color.
+
+
+
+2. $color = array('white', 'green', 'red'') 
+Write a PHP script which will display the colors in the following way : 
+
+
+green
+red
+white
+
+
+
+3. $ceu = array( "Italy"=>"Rome", "Luxembourg"=>"Luxembourg", "Belgium"=> "Brussels", "Denmark"=>"Copenhagen") ;
+
+Create a PHP script which display the capital and country name from the above array $ceu. Sort the list by the name of the country. 
+
+Sample Output :
+The capital of Italy is Rome
+The capital of Luxembourg is Luxembourg 
+etc
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+4. $x = array(1, 2, 3, 4, 5);
+Delete an element from the above PHP array. After deleting the element, integer keys must be normalized. 
+Sample Output : 
+array(5) { [0]=> int(1) [1]=> int(2) [2]=> int(3) [3]=> int(4) [4]=> int(5) } 
+array(4) { [0]=> int(1) [1]=> int(2) [2]=> int(3) [3]=> int(5) }
+
+
+
+5. $color = array(4 => 'white', 6 => 'green', 11=> 'red');
+Write a PHP script to get the first element of the above array. 
+Expected result : white
+
+
+
+7. Write a PHP script that insert a new item in an array on any position. 
+Expected Output :
+Original array : 
+1 2 3 4 5 
+After inserting '$' the array is :
+1 2 3 $ 4 5
+
+
+
+8. Write a PHP script to sort the following associative array : 
+array("Sophia"=>"31","Jacob"=>"41","William"=>"39","Ramesh"=>"40") in 
+a) ascending order sort by value
+b) ascending order sort by Key
+c) descending order sorting by Value
+d) descending order sorting by Key
+
+
+
+14. Write a PHP script to get the shortest/longest string length from an array. 
+Sample arrays : ("abcd","abc","de","hjjj","g","wer")
+Expected Output : The shortest array length is 1. The longest array length is 4.
+
+
+
+

@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF=8">
+	<title>Basic php</title>
+</head>
+<body>
+	<h1>This is your php info</h1>
+	<p>the following is everything you need to know about your version of php</p>
+
+	<?php phpinfo(); ?>
+
+</body>
+</html>
